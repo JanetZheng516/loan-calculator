@@ -1,1 +1,2 @@
 # loan-calculator
+# DOM manipulation
